@@ -1,0 +1,15 @@
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.csprojResolveAssemblyReference.cache
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.Properties.Resources.resources
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.csproj.GenerateResource.Cache
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\bin\Debug\EComSiteRepository.dll.config
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\bin\Debug\EComSiteRepository.dll
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\bin\Debug\EComSiteRepository.pdb
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.dll
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.pdb
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\bin\Debug\EComSiteRepository.dll
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\bin\Debug\EComSiteRepository.pdb
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.Properties.Resources.resources
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.csproj.GenerateResource.Cache
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.dll
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.pdb
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteRepository\obj\Debug\EComSiteRepository.csprojResolveAssemblyReference.cache
