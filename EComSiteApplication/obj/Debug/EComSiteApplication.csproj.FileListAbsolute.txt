@@ -1,0 +1,30 @@
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\bin\Debug\EComSiteApplication.exe.config
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.Properties.Resources.resources
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.csproj.GenerateResource.Cache
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\bin\Debug\EComSiteApplication.exe
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\bin\Debug\EComSiteApplication.pdb
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.Login.resources
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.exe
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.pdb
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.csprojResolveAssemblyReference.cache
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.AdminHome.resources
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.EmployeeHome.resources
+C:\Users\Sadiq\Desktop\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.UserHome.resources
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\bin\Debug\EComSiteApplication.exe
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\bin\Debug\EComSiteApplication.exe.config
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\bin\Debug\EComSiteRepository.dll
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\bin\Debug\EComSiteRepository.pdb
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.csprojResolveAssemblyReference.cache
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.AdminHome.resources
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.EmployeeHome.resources
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.Login.resources
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.Properties.Resources.resources
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.UserHome.resources
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.csproj.GenerateResource.Cache
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.exe
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.pdb
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\bin\Debug\EComSiteApplication.pdb
+D:\C DESKTOP\C Sharp\E-commerce Site\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.AdminUpdateProfile.resources
+F:\E-commerce Site\EComSiteApplication\bin\Debug\EComSiteApplication.exe.config
+F:\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.exe
+F:\E-commerce Site\EComSiteApplication\obj\Debug\EComSiteApplication.pdb
